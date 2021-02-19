@@ -5,7 +5,7 @@
 
 > :brain: Hello, there! I'm a passionate Software Engineer from :flag-br: Brasil. Lately, I've been working with microservices written in Java and Kotlin. My main focus right now is improving my skills on Kotlin, Domain Driven Design, DevOps, Testing and Event Driven Microservices. Although I'm mainly working with backend, I enjoy all parts of the process of building great software and look forward to further expand my knowledge.
 
-## :wrench: Tech
+<!-- ## :wrench: Tech
 
 <img src="assets/kotlin.svg" alt="drawing" width="50"/>
 <img src="assets/spring.svg" alt="drawing" width="50"/>
@@ -18,7 +18,7 @@
 <img src="assets/react.svg" alt="drawing" width="50"/>
 <img src="assets/html5.svg" alt="drawing" width="50"/>
 <img src="assets/css3.svg" alt="drawing" width="50"/>
-<img src="assets/typescript.svg" alt="drawing" width="50"/>
+<img src="assets/typescript.svg" alt="drawing" width="50"/> -->
 
 ## :eyeglasses: Contact
 
