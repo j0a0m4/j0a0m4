@@ -3,7 +3,7 @@
 :technologist: Software Engineer [@Sensedia]()  
 :star: Contributor [@GCAS_UFFF](https://github.com/GCAS-UFF)  
 
-> :brain: Hello, there! I'm a passionate Software Engineer from :flag-br: Brasil. Lately, I've been working with microservices written in Java and Kotlin. My main focus right now is improving my skills on Kotlin, Domain Driven Design, DevOps, Testing and Event Driven Microservices. Although I'm mainly working with backend, I enjoy all parts of the process of building great software and look forward to further expand my knowledge.
+> :brain: Hello, there! I'm a passionate Software Engineer from Brasil. Lately, I've been working with microservices written in Java and Kotlin. My main focus right now is improving my skills on Kotlin, Domain Driven Design, DevOps, Testing and Event Driven Microservices. Although I'm mainly working with backend, I enjoy all parts of the process of building great software and look forward to further expand my knowledge.
 
 <!-- ## :wrench: Tech
 
