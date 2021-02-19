@@ -1,7 +1,7 @@
 # :zap: João Marcos
 
 :technologist: Software Engineer [@Sensedia](https://github.com/Sensedia)  
-:star: Contributor [@GCAS_UFFF](https://github.com/GCAS-UFF)  
+:star: Contributor [@GCAS_UFF](https://github.com/GCAS-UFF)  
 
 ## :speech_balloon: Info
 
