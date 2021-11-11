@@ -5,7 +5,10 @@
 
 ## :speech_balloon: Info
 
-Hello, there! I'm a passionate Software Engineer from Brasil. Lately, I've been working with microservices written in Java and Kotlin. My main focus right now is improving my skills on Kotlin, Domain Driven Design & Event Driven Microservices. Although I'm mainly working with backend, I enjoy all parts of the process of building great software and look forward to further expand my knowledge.
+Hello, there! I'm a passionate Software Developer from Brazil. Lately, I've been working with microservices written in Java and RESTful APIs. What I'm most interested in is writing maintanable code that is easy on the brain and nice for the business. For that reason I'm challenging myself to practice TDD so I can stay in a state of flow while developing awesome solutions. Exploring stuff for fun is what makes my brain tick and I have lots of fun playing around with Linux, Math, Python, Emacs and everything in between.
+I've been studying Go and it's really growing on me, I quite like how the code becomes structured and how fast the feedback loop is when writing code.
+
+🚀 Let's figure it all out, shall we?
 
 ## :eyeglasses: Contact
 
