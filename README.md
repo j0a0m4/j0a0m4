@@ -1,6 +1,6 @@
 # :zap: João Lopes
 
-:technologist: Consulting Developer [@thoughtworks](https://github.com/thoughtworks)   
+:technologist: Software Engineer [@nubank](https://github.com/nubank)   
 
 ## :speech_balloon: Info
 
