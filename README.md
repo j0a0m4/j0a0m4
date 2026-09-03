@@ -1,7 +1,7 @@
 # :zap: João Lopes
 
-:technologist: Software Engineer [@nubank](https://github.com/nubank)   
+:technologist: AI Engineer 
 
 ## :speech_balloon: Info
 
-I'm a creative backend software engineer interested in modern software practices and building great products. I'm passionate about functional domain driven design and domain specific languages. In this profile you can find a lot of experiments and side projects that explore specific concepts. It's almost like a public learning journal.
+I'm a creative Software Egineer interested in AI first software practices and building lovable products. I'm passionate about functional domain driven design and domain specific languages. My goal is to create safe and humane autonomous systems with great agent and user experiences.
